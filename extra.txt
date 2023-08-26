@@ -1,0 +1,5 @@
+pavucontrol
+mpv
+vlc
+chromium
+
